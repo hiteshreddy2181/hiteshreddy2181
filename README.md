@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hiteshreddy2181
 - 👀 I’m interested in ROBOTICS
-- 🌱 I’m currently learning FULL STACK DEVELOPMENT
+- 🌱 I’m currently working as a FULL STACK DEVELOPMENT
 - 💞️ I’m looking to collaborate on SMART FARMING PROJECTS
 - 📫 How to reach me 
 -    Email me at hiteshreddy2181@gmail.com 
